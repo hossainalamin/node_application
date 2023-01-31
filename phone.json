@@ -1,0 +1,27 @@
+[
+    {
+        "id" : 1,
+        "name" : "Nokia",
+        "Price" : "20000"
+    },
+    {
+        "id" : 2,
+        "name" : "Samsung",
+        "Price" : "25000"
+    },
+    {
+        "id" : 3,
+        "name" : "Redmi",
+        "Price" : "200000"
+    },
+    {
+        "id" : 4,
+        "name" : "Iphone",
+        "Price" : "2000000"
+    },
+    {
+        "id" : 5,
+        "name" : "One Plus",
+        "Price" : "30000"
+    }
+]
